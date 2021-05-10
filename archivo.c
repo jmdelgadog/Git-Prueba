@@ -1,5 +1,5 @@
 int main() {
-int a;
+int a=0;
 printf("Hola mundo");
 return 0;
 }
